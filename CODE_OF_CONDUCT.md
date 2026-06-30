@@ -85,7 +85,10 @@ report and provide them an opportunity to discuss it before any action is taken.
 The identity of the reporter will be omitted from the details of the report
 supplied to the accused. In potentially harmful situations, such as ongoing
 harassment or threats to anyone's safety, we may take action without notice.
-
+https://eheps.com
+Executive@eheps.com
+Ewaz.2010@gmail.com 
+Executivedirector@eheps.org 
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4,
